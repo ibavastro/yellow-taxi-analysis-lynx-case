@@ -16,12 +16,12 @@ This repository contains an exploratory analysis of TLC NYC Yellow Taxi trip rec
 - **Yellow-Taxi-Analysis.html**  
   HTML export of the notebook. This version is recommended if images do not render correctly in the Jupyter Notebook.
 
-- **Executive Summary - One Pager.docx**  
+- **Insights Presentation.pdf**  
+  Deck of slides that show visually the main findings of the analysis, intended for a presentation with any potential stakeholder.
+
+- **Executive Summary - One Pager.pdf**  
   Standalone Word document containing the executive summary only, intended for stakeholders who do not require the full analytical walkthrough.
 
-## Scope of the Analysis
-
-The analysis covers TLC NYC Yellow Taxi trip records from 2018 to January 2023 and combines them with the Taxi Zone Lookup file to enrich location-based analysis. The work focuses on identifying trip patterns, segment differences, demand and revenue evolution, and data quality issues that may affect KPI interpretation.
 
 ## Notes
 
