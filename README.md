@@ -20,7 +20,10 @@ This repository contains an exploratory analysis of TLC NYC Yellow Taxi trip rec
   Deck of slides that show visually the main findings of the analysis, intended for a presentation with any potential stakeholder.
 
 - **Executive Summary - One Pager.pdf**  
-  Standalone Word document containing the executive summary only, intended for stakeholders who do not require the full analytical walkthrough.
+  Standalone PDF document containing the executive summary only, intended for stakeholders who do not require the full analytical walkthrough.
+
+- **Yellow Taxi Analysis Documentation.pdf**  
+  Standalone PDF document describing the thought process behind the architecture, tool selection, data model, and key methodological decisions used to build the analysis.
 
 
 ## Notes
